@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BdmcFalloutCobblestone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BdmcFalloutCobblestone"
+      },
+      {
+        "value": "CUSTOM:BdmcFalloutCobblestone"
+      },
+      {
+        "value": "CUSTOM:BdmcFalloutCobblestone"
+      },
+      {
+        "value": "CUSTOM:BdmcFalloutCobblestone"
+      },
+      {
+        "value": "CUSTOM:BdmcFalloutCobblestone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BdmcFalloutCobblestoneStairs"
+    },
+    "name": "bdmc_fallout_cobblestone_stairs_recipe",
+    "namespace": "mod"
+  }
+}

@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "fallout_stone",
+    "texture": "fallout_stone_granite",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Wasteland Stone",
+    "name": "Wasteland Granite",
     "specialInfo": [],
     "hardness": 1.5,
     "resistance": 10.0,
@@ -43,7 +43,7 @@
     },
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "CUSTOM:BdmcFalloutCobblestone"
+      "value": ""
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,

@@ -1,0 +1,26 @@
+{
+  "group": "bdmc_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "bdmc_mod:bdmc_fallout_diorite"
+    },
+    "1": {
+      "item": "bdmc_mod:bdmc_fallout_diorite"
+    },
+    "2": {
+      "item": "bdmc_mod:bdmc_fallout_diorite"
+    },
+    "3": {
+      "item": "bdmc_mod:bdmc_fallout_diorite"
+    }
+  },
+  "result": {
+    "item": "bdmc_mod:bdmc_fallout_diorite_polished",
+    "count": 4
+  }
+}

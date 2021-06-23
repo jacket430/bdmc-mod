@@ -36,6 +36,78 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bdmc_fallout_cobblestone_stairs"
+    },
+    {
+      "name": "BdmcFalloutGranite",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bdmc_fallout_granite"
+    },
+    {
+      "name": "BdmcFalloutGranitePolished",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bdmc_fallout_granite_polished"
+    },
+    {
+      "name": "BdmcFalloutDiorite",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bdmc_fallout_diorite"
+    },
+    {
+      "name": "BdmcFalloutDioritePolished",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bdmc_fallout_diorite_polished"
+    },
+    {
+      "name": "BdmcFalloutCobblestoneStairsRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bdmc_fallout_cobblestone_stairs_recipe"
+    },
+    {
+      "name": "BdmcFalloutCobblestoneStairsRecipeFlipped",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bdmc_fallout_cobblestone_stairs_recipe_flipped"
+    },
+    {
+      "name": "BdmcFalloutDioritePolishedRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bdmc_fallout_diorite_polished_recipe"
+    },
+    {
+      "name": "BdmcFalloutGranitePolishedRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bdmc_fallout_granite_polished_recipe"
     }
   ],
   "variable_elements": [],
@@ -45,7 +117,11 @@
       "itemGroup.tabbdmc_blocks": "BDMC Blocks",
       "tile.bdmc_fallout_cobblestone.name": "Wasteland Cobblestone",
       "tile.bdmc_fallout_cobblestone_stairs.name": "Wasteland Cobblestone Stairs",
-      "tile.bdmc_fallout_stone.name": "Wasteland Stone"
+      "tile.bdmc_fallout_diorite_polished.name": "Wasteland Polished Diorite",
+      "tile.bdmc_fallout_stone.name": "Wasteland Stone",
+      "tile.bdmc_fallout_granite.name": "Wasteland Granite",
+      "tile.bdmc_fallout_granite_polished.name": "Wasteland Polished Granite",
+      "tile.bdmc_fallout_diorite.name": "Wasteland Diorite"
     }
   },
   "foldersRoot": {

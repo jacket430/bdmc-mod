@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bdmc_mod:blocks/fallout_stone_granite",
+    "particle": "bdmc_mod:blocks/fallout_stone_granite"
+  }
+}

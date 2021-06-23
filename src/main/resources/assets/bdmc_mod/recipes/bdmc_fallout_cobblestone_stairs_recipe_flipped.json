@@ -1,0 +1,33 @@
+{
+  "group": "bdmc_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bdmc_mod:bdmc_fallout_cobblestone"
+    },
+    "3": {
+      "item": "bdmc_mod:bdmc_fallout_cobblestone"
+    },
+    "4": {
+      "item": "bdmc_mod:bdmc_fallout_cobblestone"
+    },
+    "6": {
+      "item": "bdmc_mod:bdmc_fallout_cobblestone"
+    },
+    "7": {
+      "item": "bdmc_mod:bdmc_fallout_cobblestone"
+    },
+    "8": {
+      "item": "bdmc_mod:bdmc_fallout_cobblestone"
+    }
+  },
+  "result": {
+    "item": "bdmc_mod:bdmc_fallout_cobblestone_stairs",
+    "count": 4
+  }
+}
