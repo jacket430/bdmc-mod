@@ -1,0 +1,23 @@
+{
+  "group": "bdmc_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "bdmc_mod:bdmc_fallout_cobblestone"
+    },
+    "1": {
+      "item": "bdmc_mod:bdmc_fallout_cobblestone"
+    },
+    "2": {
+      "item": "bdmc_mod:bdmc_fallout_cobblestone"
+    }
+  },
+  "result": {
+    "item": "bdmc_mod:bdmc_fallout_cobblestone_slab",
+    "data": 0,
+    "count": 6
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "bdmc_mod:bdmc_fallout_stone_slab_double"
+    }
+  }
+}
