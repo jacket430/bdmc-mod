@@ -31,7 +31,7 @@ public class BlockBdmcFalloutLogSpruce extends ElementsBdmcModMod.ModElement {
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_log_spruce")
 	public static final Block block = null;
 	public BlockBdmcFalloutLogSpruce(ElementsBdmcModMod instance) {
-		super(instance, 52);
+		super(instance, 17);
 	}
 
 	@Override

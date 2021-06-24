@@ -12,7 +12,7 @@ import net.avery.bdmcmod.ElementsBdmcModMod;
 @ElementsBdmcModMod.ModElement.Tag
 public class OreDictStoneBlocks extends ElementsBdmcModMod.ModElement {
 	public OreDictStoneBlocks(ElementsBdmcModMod instance) {
-		super(instance, 37);
+		super(instance, 30);
 	}
 
 	@Override

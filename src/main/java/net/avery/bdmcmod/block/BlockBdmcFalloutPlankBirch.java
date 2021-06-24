@@ -31,7 +31,7 @@ public class BlockBdmcFalloutPlankBirch extends ElementsBdmcModMod.ModElement {
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_plank_birch")
 	public static final Block block = null;
 	public BlockBdmcFalloutPlankBirch(ElementsBdmcModMod instance) {
-		super(instance, 56);
+		super(instance, 19);
 	}
 
 	@Override

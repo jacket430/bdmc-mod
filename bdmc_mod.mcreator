@@ -13,7 +13,7 @@
     {
       "name": "BdmcBlocks",
       "type": "tab",
-      "sortid": 28,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -22,7 +22,7 @@
     {
       "name": "BdmcFalloutCobblestone",
       "type": "block",
-      "sortid": 7,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -31,7 +31,7 @@
     {
       "name": "BdmcFalloutGranite",
       "type": "block",
-      "sortid": 10,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -40,7 +40,7 @@
     {
       "name": "BdmcFalloutGranitePolished",
       "type": "block",
-      "sortid": 13,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -49,7 +49,7 @@
     {
       "name": "BdmcFalloutDiorite",
       "type": "block",
-      "sortid": 22,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -58,7 +58,7 @@
     {
       "name": "BdmcFalloutDioritePolished",
       "type": "block",
-      "sortid": 25,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -67,7 +67,7 @@
     {
       "name": "BdmcFalloutDioritePolishedRecipe",
       "type": "recipe",
-      "sortid": 30,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -76,7 +76,7 @@
     {
       "name": "BdmcFalloutGranitePolishedRecipe",
       "type": "recipe",
-      "sortid": 31,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -85,7 +85,7 @@
     {
       "name": "BdmcFalloutStoneBrick",
       "type": "block",
-      "sortid": 4,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -94,7 +94,7 @@
     {
       "name": "BdmcFalloutAndesite",
       "type": "block",
-      "sortid": 16,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -103,7 +103,7 @@
     {
       "name": "BdmcFalloutAndesitePolished",
       "type": "block",
-      "sortid": 19,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -112,7 +112,7 @@
     {
       "name": "BdmcFalloutAndesitePolishedRecipe",
       "type": "recipe",
-      "sortid": 32,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -121,7 +121,7 @@
     {
       "name": "DirtBlocks",
       "type": "tag",
-      "sortid": 35,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -130,7 +130,7 @@
     {
       "name": "LogBlocks",
       "type": "tag",
-      "sortid": 36,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -139,7 +139,7 @@
     {
       "name": "StoneBlocks",
       "type": "tag",
-      "sortid": 37,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -148,7 +148,7 @@
     {
       "name": "BdmcFalloutStoneBrickRecipe",
       "type": "recipe",
-      "sortid": 41,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -157,7 +157,7 @@
     {
       "name": "BdmcFalloutSmoothStone",
       "type": "block",
-      "sortid": 42,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -166,7 +166,7 @@
     {
       "name": "BdmcFalloutSmoothStoneSlab",
       "type": "block",
-      "sortid": 43,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -175,7 +175,7 @@
     {
       "name": "BdmcFalloutSmoothStoneSlabRecipe",
       "type": "recipe",
-      "sortid": 44,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -184,7 +184,7 @@
     {
       "name": "BdmcFalloutSmoothStonetoSmoothStoneSlabRecipe",
       "type": "recipe",
-      "sortid": 46,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -193,7 +193,7 @@
     {
       "name": "BdmcFalloutSmoothStoneRecipe",
       "type": "recipe",
-      "sortid": 47,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -202,7 +202,7 @@
     {
       "name": "BdmcFalloutLogOak",
       "type": "block",
-      "sortid": 48,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -211,7 +211,7 @@
     {
       "name": "BdmcFalloutLogDarkOak",
       "type": "block",
-      "sortid": 49,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -220,7 +220,7 @@
     {
       "name": "BdmcFalloutLogBirch",
       "type": "block",
-      "sortid": 50,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -229,7 +229,7 @@
     {
       "name": "BdmcFalloutLogAcacia",
       "type": "block",
-      "sortid": 51,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -238,7 +238,7 @@
     {
       "name": "BdmcFalloutLogSpruce",
       "type": "block",
-      "sortid": 52,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -247,7 +247,7 @@
     {
       "name": "BdmcFalloutLogJungle",
       "type": "block",
-      "sortid": 53,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -256,7 +256,7 @@
     {
       "name": "BdmcFalloutPlankAcacia",
       "type": "block",
-      "sortid": 54,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -265,7 +265,7 @@
     {
       "name": "BdmcFalloutPlankAcaciaRecipe",
       "type": "recipe",
-      "sortid": 55,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -274,7 +274,7 @@
     {
       "name": "BdmcFalloutPlankBirch",
       "type": "block",
-      "sortid": 56,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -283,7 +283,7 @@
     {
       "name": "BdmcFalloutPlankBirchRecipe",
       "type": "recipe",
-      "sortid": 57,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -292,7 +292,7 @@
     {
       "name": "BdmcFalloutPlankDarkOak",
       "type": "block",
-      "sortid": 58,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -301,7 +301,7 @@
     {
       "name": "BdmcFalloutPlankDarkOakRecipe",
       "type": "recipe",
-      "sortid": 59,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -310,7 +310,7 @@
     {
       "name": "BdmcFalloutPlankJungle",
       "type": "block",
-      "sortid": 60,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -319,7 +319,7 @@
     {
       "name": "BdmcFalloutPlankOak",
       "type": "block",
-      "sortid": 61,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -328,7 +328,7 @@
     {
       "name": "BdmcFalloutPlankSpruce",
       "type": "block",
-      "sortid": 62,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -337,7 +337,7 @@
     {
       "name": "BdmcFalloutPlankJungleRecipe",
       "type": "recipe",
-      "sortid": 63,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -346,7 +346,7 @@
     {
       "name": "BdmcFalloutPlankOakRecipe",
       "type": "recipe",
-      "sortid": 64,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -355,7 +355,7 @@
     {
       "name": "BdmcFalloutPlankSpruceRecipe",
       "type": "recipe",
-      "sortid": 65,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {},

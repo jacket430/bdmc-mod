@@ -22,7 +22,7 @@ public class BlockBdmcFalloutCobblestone extends ElementsBdmcModMod.ModElement {
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_cobblestone")
 	public static final Block block = null;
 	public BlockBdmcFalloutCobblestone(ElementsBdmcModMod instance) {
-		super(instance, 7);
+		super(instance, 3);
 	}
 
 	@Override

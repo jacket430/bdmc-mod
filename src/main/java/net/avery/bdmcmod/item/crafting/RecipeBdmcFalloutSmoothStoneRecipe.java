@@ -13,7 +13,7 @@ import net.avery.bdmcmod.ElementsBdmcModMod;
 @ElementsBdmcModMod.ModElement.Tag
 public class RecipeBdmcFalloutSmoothStoneRecipe extends ElementsBdmcModMod.ModElement {
 	public RecipeBdmcFalloutSmoothStoneRecipe(ElementsBdmcModMod instance) {
-		super(instance, 47);
+		super(instance, 34);
 	}
 
 	@Override

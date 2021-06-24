@@ -22,7 +22,7 @@ public class BlockBdmcFalloutSmoothStone extends ElementsBdmcModMod.ModElement {
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_smooth_stone")
 	public static final Block block = null;
 	public BlockBdmcFalloutSmoothStone(ElementsBdmcModMod instance) {
-		super(instance, 42);
+		super(instance, 10);
 	}
 
 	@Override

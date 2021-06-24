@@ -37,7 +37,7 @@ public class BlockBdmcFalloutSmoothStoneSlab extends ElementsBdmcModMod.ModEleme
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_smooth_stone_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockBdmcFalloutSmoothStoneSlab(ElementsBdmcModMod instance) {
-		super(instance, 43);
+		super(instance, 11);
 	}
 
 	@Override

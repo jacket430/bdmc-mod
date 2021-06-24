@@ -22,7 +22,7 @@ public class BlockBdmcFalloutDiorite extends ElementsBdmcModMod.ModElement {
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_diorite")
 	public static final Block block = null;
 	public BlockBdmcFalloutDiorite(ElementsBdmcModMod instance) {
-		super(instance, 22);
+		super(instance, 8);
 	}
 
 	@Override

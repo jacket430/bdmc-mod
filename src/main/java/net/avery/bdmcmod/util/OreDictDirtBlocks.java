@@ -8,7 +8,7 @@ import net.avery.bdmcmod.ElementsBdmcModMod;
 @ElementsBdmcModMod.ModElement.Tag
 public class OreDictDirtBlocks extends ElementsBdmcModMod.ModElement {
 	public OreDictDirtBlocks(ElementsBdmcModMod instance) {
-		super(instance, 35);
+		super(instance, 28);
 	}
 
 	@Override

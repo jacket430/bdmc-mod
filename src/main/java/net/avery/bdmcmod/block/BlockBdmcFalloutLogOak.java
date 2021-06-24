@@ -31,7 +31,7 @@ public class BlockBdmcFalloutLogOak extends ElementsBdmcModMod.ModElement {
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_log_oak")
 	public static final Block block = null;
 	public BlockBdmcFalloutLogOak(ElementsBdmcModMod instance) {
-		super(instance, 48);
+		super(instance, 16);
 	}
 
 	@Override

@@ -31,7 +31,7 @@ public class BlockBdmcFalloutLogJungle extends ElementsBdmcModMod.ModElement {
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_log_jungle")
 	public static final Block block = null;
 	public BlockBdmcFalloutLogJungle(ElementsBdmcModMod instance) {
-		super(instance, 53);
+		super(instance, 15);
 	}
 
 	@Override

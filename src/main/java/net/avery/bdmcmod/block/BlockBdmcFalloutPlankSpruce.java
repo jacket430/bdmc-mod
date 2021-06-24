@@ -31,7 +31,7 @@ public class BlockBdmcFalloutPlankSpruce extends ElementsBdmcModMod.ModElement {
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_plank_spruce")
 	public static final Block block = null;
 	public BlockBdmcFalloutPlankSpruce(ElementsBdmcModMod instance) {
-		super(instance, 62);
+		super(instance, 23);
 	}
 
 	@Override
