@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "bdmc_mod:bdmc_fallout_log_jungle"
+    },
+    "facing=south": {
+      "model": "bdmc_mod:bdmc_fallout_log_jungle"
+    },
+    "facing=north": {
+      "model": "bdmc_mod:bdmc_fallout_log_jungle"
+    },
+    "facing=east": {
+      "model": "bdmc_mod:bdmc_fallout_log_jungle",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "bdmc_mod:bdmc_fallout_log_jungle",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "bdmc_mod:bdmc_fallout_log_jungle",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "bdmc_mod:bdmc_fallout_log_jungle",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

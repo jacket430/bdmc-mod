@@ -7,7 +7,7 @@ import net.minecraftforge.fml.relauncher.Side;
 import net.minecraft.item.ItemStack;
 import net.minecraft.creativetab.CreativeTabs;
 
-import net.avery.bdmcmod.block.BlockBdmcFalloutStone;
+import net.avery.bdmcmod.block.BlockBdmcFalloutDioritePolished;
 import net.avery.bdmcmod.ElementsBdmcModMod;
 
 @ElementsBdmcModMod.ModElement.Tag
@@ -22,14 +22,14 @@ public class TabBdmcBlocks extends ElementsBdmcModMod.ModElement {
 			@SideOnly(Side.CLIENT)
 			@Override
 			public ItemStack getTabIconItem() {
-				return new ItemStack(BlockBdmcFalloutStone.block, (int) (1));
+				return new ItemStack(BlockBdmcFalloutDioritePolished.block, (int) (1));
 			}
 
 			@SideOnly(Side.CLIENT)
 			public boolean hasSearchBar() {
-				return false;
+				return true;
 			}
-		};
+		}.setBackgroundImageName("item_search.png");
 	}
 	public static CreativeTabs tab;
 }

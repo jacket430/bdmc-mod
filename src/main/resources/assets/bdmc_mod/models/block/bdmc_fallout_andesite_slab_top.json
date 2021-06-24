@@ -1,8 +1,0 @@
-{
-  "parent": "block/upper_slab",
-  "textures": {
-    "bottom": "bdmc_mod:blocks/fallout_stone_andesite",
-    "top": "bdmc_mod:blocks/fallout_stone_andesite",
-    "side": "bdmc_mod:blocks/fallout_stone_andesite"
-  }
-}

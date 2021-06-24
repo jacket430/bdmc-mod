@@ -2,10 +2,10 @@
   "_fv": 18,
   "_type": "tab",
   "definition": {
-    "name": "BDMC Blocks",
+    "name": "BDMC Fallout Blocks",
     "icon": {
-      "value": "CUSTOM:BdmcFalloutStone"
+      "value": "CUSTOM:BdmcFalloutDioritePolished"
     },
-    "showSearch": false
+    "showSearch": true
   }
 }

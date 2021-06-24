@@ -1,8 +1,0 @@
-{
-  "parent": "block/upper_slab",
-  "textures": {
-    "bottom": "bdmc_mod:blocks/fallout_stone_diorite_smooth",
-    "top": "bdmc_mod:blocks/fallout_stone_diorite_smooth",
-    "side": "bdmc_mod:blocks/fallout_stone_diorite_smooth"
-  }
-}

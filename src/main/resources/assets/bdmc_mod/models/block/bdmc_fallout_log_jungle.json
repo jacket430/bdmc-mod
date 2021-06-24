@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bdmc_mod:blocks/fallout_log_jungle_top",
+    "up": "bdmc_mod:blocks/fallout_log_jungle_top",
+    "north": "bdmc_mod:blocks/fallout_log_jungle",
+    "east": "bdmc_mod:blocks/fallout_log_jungle",
+    "south": "bdmc_mod:blocks/fallout_log_jungle",
+    "west": "bdmc_mod:blocks/fallout_log_jungle",
+    "particle": "bdmc_mod:blocks/fallout_log_jungle_top"
+  }
+}

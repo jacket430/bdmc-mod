@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bdmc_mod:blocks/fallout_log_big_oak_top",
+    "up": "bdmc_mod:blocks/fallout_log_big_oak_top",
+    "north": "bdmc_mod:blocks/fallout_log_big_oak",
+    "east": "bdmc_mod:blocks/fallout_log_big_oak",
+    "south": "bdmc_mod:blocks/fallout_log_big_oak",
+    "west": "bdmc_mod:blocks/fallout_log_big_oak",
+    "particle": "bdmc_mod:blocks/fallout_log_big_oak_top"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "bdmc_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "bdmc_mod:bdmc_fallout_log_dark_oak"
+    }
+  },
+  "result": {
+    "item": "bdmc_mod:bdmc_fallout_plank_dark_oak",
+    "count": 4
+  }
+}

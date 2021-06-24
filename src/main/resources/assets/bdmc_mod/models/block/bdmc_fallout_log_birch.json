@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bdmc_mod:blocks/fallout_log_birch_top",
+    "up": "bdmc_mod:blocks/fallout_log_birch_top",
+    "north": "bdmc_mod:blocks/fallout_log_birch",
+    "east": "bdmc_mod:blocks/fallout_log_birch",
+    "south": "bdmc_mod:blocks/fallout_log_birch",
+    "west": "bdmc_mod:blocks/fallout_log_birch",
+    "particle": "bdmc_mod:blocks/fallout_log_birch_top"
+  }
+}

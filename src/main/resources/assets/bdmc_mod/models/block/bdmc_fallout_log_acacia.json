@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bdmc_mod:blocks/fallout_log_acacia_top",
+    "up": "bdmc_mod:blocks/fallout_log_acacia_top",
+    "north": "bdmc_mod:blocks/fallout_log_acacia",
+    "east": "bdmc_mod:blocks/fallout_log_acacia",
+    "south": "bdmc_mod:blocks/fallout_log_acacia",
+    "west": "bdmc_mod:blocks/fallout_log_acacia",
+    "particle": "bdmc_mod:blocks/fallout_log_acacia_top"
+  }
+}

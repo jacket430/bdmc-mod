@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "bdmc_mod:bdmc_fallout_plank_birch"
+    },
+    "facing=south": {
+      "model": "bdmc_mod:bdmc_fallout_plank_birch"
+    },
+    "facing=north": {
+      "model": "bdmc_mod:bdmc_fallout_plank_birch"
+    },
+    "facing=east": {
+      "model": "bdmc_mod:bdmc_fallout_plank_birch",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "bdmc_mod:bdmc_fallout_plank_birch",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "bdmc_mod:bdmc_fallout_plank_birch",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "bdmc_mod:bdmc_fallout_plank_birch",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

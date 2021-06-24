@@ -1,8 +1,0 @@
-{
-  "parent": "block/stairs",
-  "textures": {
-    "bottom": "bdmc_mod:blocks/fallout_stone_andesite",
-    "top": "bdmc_mod:blocks/fallout_stone_andesite",
-    "side": "bdmc_mod:blocks/fallout_stone_andesite"
-  }
-}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bdmc_mod:blocks/fallout_planks_acacia",
+    "particle": "bdmc_mod:blocks/fallout_planks_acacia"
+  }
+}

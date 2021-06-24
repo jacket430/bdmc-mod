@@ -4,7 +4,26 @@
   "definition": {
     "type": "Blocks",
     "items": [],
-    "blocks": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:BdmcFalloutLogOak"
+      },
+      {
+        "value": "CUSTOM:BdmcFalloutLogDarkOak"
+      },
+      {
+        "value": "CUSTOM:BdmcFalloutLogBirch"
+      },
+      {
+        "value": "CUSTOM:BdmcFalloutLogAcacia"
+      },
+      {
+        "value": "CUSTOM:BdmcFalloutLogSpruce"
+      },
+      {
+        "value": "CUSTOM:BdmcFalloutLogJungle"
+      }
+    ],
     "functions": [],
     "entities": [],
     "name": "logs",

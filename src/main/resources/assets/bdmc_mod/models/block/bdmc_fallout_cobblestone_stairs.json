@@ -1,8 +1,0 @@
-{
-  "parent": "block/stairs",
-  "textures": {
-    "bottom": "bdmc_mod:blocks/fallout_cobblestone",
-    "top": "bdmc_mod:blocks/fallout_cobblestone",
-    "side": "bdmc_mod:blocks/fallout_cobblestone"
-  }
-}
