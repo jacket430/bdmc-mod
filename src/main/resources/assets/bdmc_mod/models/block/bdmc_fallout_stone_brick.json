@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bdmc_mod:blocks/fallout_stonebrick",
+    "up": "bdmc_mod:blocks/fallout_stonebrick",
+    "north": "bdmc_mod:blocks/fallout_stonebrick",
+    "east": "bdmc_mod:blocks/fallout_stonebrick",
+    "south": "bdmc_mod:blocks/fallout_stonebrick",
+    "west": "bdmc_mod:blocks/fallout_stonebrick",
+    "particle": "bdmc_mod:blocks/fallout_stonebrick"
+  }
+}

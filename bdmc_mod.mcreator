@@ -108,6 +108,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bdmc_fallout_granite_polished_recipe"
+    },
+    {
+      "name": "BdmcFalloutStoneBrick",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bdmc_fallout_stone_brick"
     }
   ],
   "variable_elements": [],
@@ -121,7 +130,8 @@
       "tile.bdmc_fallout_stone.name": "Wasteland Stone",
       "tile.bdmc_fallout_granite.name": "Wasteland Granite",
       "tile.bdmc_fallout_granite_polished.name": "Wasteland Polished Granite",
-      "tile.bdmc_fallout_diorite.name": "Wasteland Diorite"
+      "tile.bdmc_fallout_diorite.name": "Wasteland Diorite",
+      "tile.bdmc_fallout_stone_brick.name": "Wasteland Stone Brick"
     }
   },
   "foldersRoot": {
