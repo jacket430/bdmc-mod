@@ -18,16 +18,16 @@ import net.avery.bdmcmod.creativetab.TabBdmcBlocks;
 import net.avery.bdmcmod.ElementsBdmcModMod;
 
 @ElementsBdmcModMod.ModElement.Tag
-public class BlockBdmcFalloutDiorite extends ElementsBdmcModMod.ModElement {
-	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_diorite")
+public class BlockBdmcFalloutAndesitePolished extends ElementsBdmcModMod.ModElement {
+	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_andesite_polished")
 	public static final Block block = null;
-	public BlockBdmcFalloutDiorite(ElementsBdmcModMod instance) {
-		super(instance, 9);
+	public BlockBdmcFalloutAndesitePolished(ElementsBdmcModMod instance) {
+		super(instance, 12);
 	}
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new BlockCustom().setRegistryName("bdmc_fallout_diorite"));
+		elements.blocks.add(() -> new BlockCustom().setRegistryName("bdmc_fallout_andesite_polished"));
 		elements.items.add(() -> new ItemBlock(block).setRegistryName(block.getRegistryName()));
 	}
 
@@ -35,12 +35,12 @@ public class BlockBdmcFalloutDiorite extends ElementsBdmcModMod.ModElement {
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
-				new ModelResourceLocation("bdmc_mod:bdmc_fallout_diorite", "inventory"));
+				new ModelResourceLocation("bdmc_mod:bdmc_fallout_andesite_polished", "inventory"));
 	}
 	public static class BlockCustom extends Block {
 		public BlockCustom() {
 			super(Material.ROCK);
-			setUnlocalizedName("bdmc_fallout_diorite");
+			setUnlocalizedName("bdmc_fallout_andesite_polished");
 			setSoundType(SoundType.STONE);
 			setHarvestLevel("pickaxe", 1);
 			setHardness(1.5F);

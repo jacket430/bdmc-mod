@@ -1,9 +1,13 @@
-itemGroup.tabbdmc_blocks=BDMC Blocks
 tile.bdmc_fallout_cobblestone.name=Wasteland Cobblestone
 tile.bdmc_fallout_cobblestone_stairs.name=Wasteland Cobblestone Stairs
-tile.bdmc_fallout_diorite_polished.name=Wasteland Polished Diorite
+tile.bdmc_fallout_stone_brick_slab.name=Wasteland Stone Brick Slab
 tile.bdmc_fallout_stone.name=Wasteland Stone
 tile.bdmc_fallout_granite.name=Wasteland Granite
-tile.bdmc_fallout_granite_polished.name=Wasteland Polished Granite
+tile.bdmc_fallout_andesite.name=Wasteland Andesite
 tile.bdmc_fallout_diorite.name=Wasteland Diorite
 tile.bdmc_fallout_stone_brick.name=Wasteland Stone Brick
+itemGroup.tabbdmc_blocks=BDMC Blocks
+tile.bdmc_fallout_diorite_polished.name=Wasteland Polished Diorite
+tile.bdmc_fallout_stone_brick_stairs.name=Wasteland Stone Brick Stairs
+tile.bdmc_fallout_granite_polished.name=Wasteland Polished Granite
+tile.bdmc_fallout_andesite_polished.name=Wasteland Polished Andesite

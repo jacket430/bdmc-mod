@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "bdmc_mod:blocks/fallout_stonebrick",
+    "top": "bdmc_mod:blocks/fallout_stonebrick",
+    "side": "bdmc_mod:blocks/fallout_stonebrick"
+  }
+}

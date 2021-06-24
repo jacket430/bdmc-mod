@@ -12,22 +12,23 @@ import net.minecraft.item.Item;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
+import net.minecraft.block.BlockStairs;
 import net.minecraft.block.Block;
 
 import net.avery.bdmcmod.creativetab.TabBdmcBlocks;
 import net.avery.bdmcmod.ElementsBdmcModMod;
 
 @ElementsBdmcModMod.ModElement.Tag
-public class BlockBdmcFalloutDiorite extends ElementsBdmcModMod.ModElement {
-	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_diorite")
+public class BlockBdmcFalloutStoneBrickStairs extends ElementsBdmcModMod.ModElement {
+	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_stone_brick_stairs")
 	public static final Block block = null;
-	public BlockBdmcFalloutDiorite(ElementsBdmcModMod instance) {
-		super(instance, 9);
+	public BlockBdmcFalloutStoneBrickStairs(ElementsBdmcModMod instance) {
+		super(instance, 3);
 	}
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new BlockCustom().setRegistryName("bdmc_fallout_diorite"));
+		elements.blocks.add(() -> new BlockCustom().setRegistryName("bdmc_fallout_stone_brick_stairs"));
 		elements.items.add(() -> new ItemBlock(block).setRegistryName(block.getRegistryName()));
 	}
 
@@ -35,15 +36,15 @@ public class BlockBdmcFalloutDiorite extends ElementsBdmcModMod.ModElement {
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
 		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0,
-				new ModelResourceLocation("bdmc_mod:bdmc_fallout_diorite", "inventory"));
+				new ModelResourceLocation("bdmc_mod:bdmc_fallout_stone_brick_stairs", "inventory"));
 	}
-	public static class BlockCustom extends Block {
+	public static class BlockCustom extends BlockStairs {
 		public BlockCustom() {
-			super(Material.ROCK);
-			setUnlocalizedName("bdmc_fallout_diorite");
+			super(new Block(Material.ROCK).getDefaultState());
+			setUnlocalizedName("bdmc_fallout_stone_brick_stairs");
 			setSoundType(SoundType.STONE);
 			setHarvestLevel("pickaxe", 1);
-			setHardness(1.5F);
+			setHardness(1F);
 			setResistance(10F);
 			setLightLevel(0F);
 			setLightOpacity(255);
