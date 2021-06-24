@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "bdmc_mod:blocks/fallout_stone_diorite",
+    "top": "bdmc_mod:blocks/fallout_stone_diorite",
+    "side": "bdmc_mod:blocks/fallout_stone_diorite"
+  }
+}

@@ -37,7 +37,7 @@ public class BlockBdmcFalloutStoneSlab extends ElementsBdmcModMod.ModElement {
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_stone_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockBdmcFalloutStoneSlab(ElementsBdmcModMod instance) {
-		super(instance, 27);
+		super(instance, 3);
 	}
 
 	@Override

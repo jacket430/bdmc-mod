@@ -23,7 +23,7 @@ public class BlockBdmcFalloutStoneStairs extends ElementsBdmcModMod.ModElement {
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_stone_stairs")
 	public static final Block block = null;
 	public BlockBdmcFalloutStoneStairs(ElementsBdmcModMod instance) {
-		super(instance, 23);
+		super(instance, 2);
 	}
 
 	@Override

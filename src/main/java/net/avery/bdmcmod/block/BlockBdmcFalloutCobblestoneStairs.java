@@ -23,7 +23,7 @@ public class BlockBdmcFalloutCobblestoneStairs extends ElementsBdmcModMod.ModEle
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_cobblestone_stairs")
 	public static final Block block = null;
 	public BlockBdmcFalloutCobblestoneStairs(ElementsBdmcModMod instance) {
-		super(instance, 6);
+		super(instance, 8);
 	}
 
 	@Override
@@ -43,6 +43,7 @@ public class BlockBdmcFalloutCobblestoneStairs extends ElementsBdmcModMod.ModEle
 			super(new Block(Material.ROCK).getDefaultState());
 			setUnlocalizedName("bdmc_fallout_cobblestone_stairs");
 			setSoundType(SoundType.STONE);
+			setHarvestLevel("pickaxe", 1);
 			setHardness(1.5F);
 			setResistance(10F);
 			setLightLevel(0F);

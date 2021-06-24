@@ -22,7 +22,7 @@ public class BlockBdmcFalloutGranite extends ElementsBdmcModMod.ModElement {
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_granite")
 	public static final Block block = null;
 	public BlockBdmcFalloutGranite(ElementsBdmcModMod instance) {
-		super(instance, 7);
+		super(instance, 10);
 	}
 
 	@Override

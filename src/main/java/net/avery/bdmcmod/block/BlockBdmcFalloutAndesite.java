@@ -22,7 +22,7 @@ public class BlockBdmcFalloutAndesite extends ElementsBdmcModMod.ModElement {
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_andesite")
 	public static final Block block = null;
 	public BlockBdmcFalloutAndesite(ElementsBdmcModMod instance) {
-		super(instance, 11);
+		super(instance, 16);
 	}
 
 	@Override

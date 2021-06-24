@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "bdmc_mod:bdmc_fallout_granite_slab"
+    },
+    "half=top,variant=default": {
+      "model": "bdmc_mod:bdmc_fallout_granite_slab_top"
+    }
+  }
+}

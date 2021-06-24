@@ -22,7 +22,7 @@ public class BlockBdmcFalloutAndesitePolished extends ElementsBdmcModMod.ModElem
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_andesite_polished")
 	public static final Block block = null;
 	public BlockBdmcFalloutAndesitePolished(ElementsBdmcModMod instance) {
-		super(instance, 12);
+		super(instance, 19);
 	}
 
 	@Override

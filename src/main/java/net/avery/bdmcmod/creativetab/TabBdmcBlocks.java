@@ -13,7 +13,7 @@ import net.avery.bdmcmod.ElementsBdmcModMod;
 @ElementsBdmcModMod.ModElement.Tag
 public class TabBdmcBlocks extends ElementsBdmcModMod.ModElement {
 	public TabBdmcBlocks(ElementsBdmcModMod instance) {
-		super(instance, 13);
+		super(instance, 28);
 	}
 
 	@Override

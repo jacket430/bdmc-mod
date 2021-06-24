@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "bdmc_mod:blocks/fallout_stone_granite",
+    "top": "bdmc_mod:blocks/fallout_stone_granite",
+    "side": "bdmc_mod:blocks/fallout_stone_granite"
+  }
+}

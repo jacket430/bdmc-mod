@@ -37,7 +37,7 @@ public class BlockBdmcFalloutStoneBrickSlab extends ElementsBdmcModMod.ModElemen
 	@GameRegistry.ObjectHolder("bdmc_mod:bdmc_fallout_stone_brick_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockBdmcFalloutStoneBrickSlab(ElementsBdmcModMod instance) {
-		super(instance, 4);
+		super(instance, 6);
 	}
 
 	@Override

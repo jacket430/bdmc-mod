@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "bdmc_mod:bdmc_fallout_diorite_slab"
+    },
+    "half=top,variant=default": {
+      "model": "bdmc_mod:bdmc_fallout_diorite_slab_top"
+    }
+  }
+}
