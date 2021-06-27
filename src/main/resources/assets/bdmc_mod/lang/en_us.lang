@@ -1,7 +1,7 @@
 tile.bdmc_fallout_stone.name=Fallout Stone
 tile.bdmc_fallout_log_birch.name=Fallout Birch Log
-tile.bdmc_fallout_stone_brick.name=Fallout Stone Brick
 tile.bdmc_fallout_diorite.name=Fallout Diorite
+tile.bdmc_fallout_stone_brick.name=Fallout Stone Brick
 tile.bdmc_fallout_smooth_stone_slab.name=Fallout Smooth Stone Slab
 itemGroup.tabbdmc_blocks=BDMC Fallout Blocks
 tile.bdmc_fallout_log_acacia.name=Fallout Acacia Log
